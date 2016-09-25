@@ -1,7 +1,7 @@
 strong,h2
 {
 	font-weight: bold;
-	color: rgb(115,56,180);
+	color: blue;
 }
 body
 {
@@ -13,5 +13,5 @@ table
 }
 td,th
 {
-    border: 1px solid black;
+    border: 5px double black;
 }
